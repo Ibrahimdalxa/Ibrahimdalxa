@@ -35,6 +35,22 @@ I mostly work with **JavaScript**, **HTML**, and **CSS**, and I'm always explori
 ![Ibrahimdalxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimdalxa&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimdalxa&layout=compact)
 
+## ✨ Featured Animation
+
+<table>
+<tr>
+<td align="center">
+
+**Light Text Animation — After Effects**
+
+[![View Animation](https://img.shields.io/badge/View-Light%20Text%20Animation-d7ff3f?style=for-the-badge&logo=googlechrome&logoColor=black)](https://claude.ai/artifact/Bcvn1F2wDatNpzUvcATLQj)
+
+`https://claude.ai/artifact/Bcvn1F2wDatNpzUvcATLQj`
+
+</td>
+</tr>
+</table>
+
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahimdalxa)
